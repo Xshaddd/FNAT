@@ -1,0 +1,23 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild*/
+[Ll]ogs/
+.utmp/
+
+.plastic/
+plastic.wktree
+moved_files.conf
+ignore.conf
+
+
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db

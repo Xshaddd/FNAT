@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236af4db72437df4eac7c207d6c15ca9, type: 3}
+  m_Name: MazikData
+  m_EditorClassIdentifier: 
+  Name: Mazik
+  StartingNode: {fileID: 11400000, guid: b3a732c778c94cd429ae4fa40e8e9560, type: 2}
+  CharacterNodes:
+  - {fileID: 11400000, guid: b3a732c778c94cd429ae4fa40e8e9560, type: 2}
+  - {fileID: 11400000, guid: a29cbc05ec8898f418d950fd1c2e1019, type: 2}
+  - {fileID: 11400000, guid: b9af3e38d0bf24e4cb3de922bf3bdf63, type: 2}
+  - {fileID: 11400000, guid: 77cd061af925bb442b61f317e14ad4b7, type: 2}
+  FallBackNodes:
+  - {fileID: 11400000, guid: b3a732c778c94cd429ae4fa40e8e9560, type: 2}
+  FailClip: {fileID: 8300000, guid: a0f44a9fe2a0d4542aa0bfe6eeffd629, type: 3}
+  LeaveClip: {fileID: 8300000, guid: 182c13e6236fcc64498e69d3d74fbe5a, type: 3}
+  FailSprite: {fileID: 2800000, guid: 6863d157aff9398409a53fa3e133f10c, type: 3}
+  Jumpscare: {fileID: 32900000, guid: 60db7d66766afa741aa6ae68809a2760, type: 3}
+  JumpscareAlpha: {fileID: 32900000, guid: 4df434782fafc964195bb0812dd23ea9, type: 3}
+  RenderData:
+  - {fileID: 11400000, guid: b523524b2b616884399878ca5d7e693c, type: 2}
+  - {fileID: 11400000, guid: 0a13f24a6c457794b8ad5a5170d8a6c2, type: 2}
+  - {fileID: 11400000, guid: ca39b7d041d99bb439bca3b962caf630, type: 2}
+  - {fileID: 11400000, guid: 3212798fddbfcdf47a3bbc15797c3b66, type: 2}
+  RenderImagePrefab: {fileID: 3077279056316733527, guid: ace6d9510c20d16489a978f77eb5168a, type: 3}

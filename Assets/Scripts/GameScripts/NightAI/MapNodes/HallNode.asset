@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d9d71a1e5d3ad64f8d25b526b5d9111, type: 3}
+  m_Name: HallNode
+  m_EditorClassIdentifier: 
+  ID: Hall
+  NextNodes:
+  - {fileID: 11400000, guid: 1e81bbc447391e240a2a1b959457a9e4, type: 2}
+  PrevNodes:
+  - {fileID: 11400000, guid: cb339003d210d0142b1982c8b53bc758, type: 2}
+  - {fileID: 11400000, guid: e01167dbc2336374e917d52e28abd607, type: 2}
+  - {fileID: 11400000, guid: 0138f423b38f83441a0e476ba619bd55, type: 2}
+  description: 

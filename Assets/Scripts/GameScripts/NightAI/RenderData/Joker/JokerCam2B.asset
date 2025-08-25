@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba3be512bc9bbf642a7b01b490aaf622, type: 3}
+  m_Name: JokerCam2B
+  m_EditorClassIdentifier: 
+  node: {fileID: 11400000, guid: 0138f423b38f83441a0e476ba619bd55, type: 2}
+  sprite: {fileID: 2725106286131389623, guid: 38c8530a0509ede4c9094ea670a6a3c8, type: 3}

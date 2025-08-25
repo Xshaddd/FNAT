@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236af4db72437df4eac7c207d6c15ca9, type: 3}
+  m_Name: AckeData
+  m_EditorClassIdentifier: 
+  Name: Acke
+  StartingNode: {fileID: 11400000, guid: 4d0f0e920a27ca9428e2d577e9c3ee07, type: 2}
+  CharacterNodes:
+  - {fileID: 11400000, guid: 4d0f0e920a27ca9428e2d577e9c3ee07, type: 2}
+  - {fileID: 11400000, guid: cb339003d210d0142b1982c8b53bc758, type: 2}
+  - {fileID: 11400000, guid: 0ab91abbaad396843afba524379e8cbc, type: 2}
+  - {fileID: 11400000, guid: 3f0e60485d2cae94b9771c20cf3e0ece, type: 2}
+  - {fileID: 11400000, guid: 1e81bbc447391e240a2a1b959457a9e4, type: 2}
+  - {fileID: 11400000, guid: 77cd061af925bb442b61f317e14ad4b7, type: 2}
+  FallBackNodes:
+  - {fileID: 11400000, guid: 4d0f0e920a27ca9428e2d577e9c3ee07, type: 2}
+  - {fileID: 11400000, guid: cb339003d210d0142b1982c8b53bc758, type: 2}
+  - {fileID: 11400000, guid: 0ab91abbaad396843afba524379e8cbc, type: 2}
+  FailClip: {fileID: 8300000, guid: 30b758ef25aca1442a26a13f9e2861f8, type: 3}
+  LeaveClip: {fileID: 8300000, guid: 787ce6679aa50814b8ed553c94ed6f8e, type: 3}
+  FailSprite: {fileID: 2800000, guid: a50de9498e83f1746a24efa15aaa6ffc, type: 3}
+  Jumpscare: {fileID: 32900000, guid: 84c3f84c509f53f45bd7ba648a2bb385, type: 3}
+  JumpscareAlpha: {fileID: 32900000, guid: 0c2c7d5a1b0af4445be3a75d2653cbd6, type: 3}
+  RenderData:
+  - {fileID: 11400000, guid: 8d7a88789e492cc4582789c509f36631, type: 2}
+  - {fileID: 11400000, guid: 4c6d02eb33be56349aaad72741bdeb61, type: 2}
+  - {fileID: 11400000, guid: 2f26d446a1789d04f98db6c5ebdbec30, type: 2}
+  RenderImagePrefab: {fileID: 3077279056316733527, guid: d715f17bffffd2c4aa91895913485acf, type: 3}

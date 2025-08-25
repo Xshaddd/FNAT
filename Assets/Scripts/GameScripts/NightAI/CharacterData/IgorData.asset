@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 236af4db72437df4eac7c207d6c15ca9, type: 3}
+  m_Name: IgorData
+  m_EditorClassIdentifier: 
+  Name: Igor
+  StartingNode: {fileID: 11400000, guid: 4d0f0e920a27ca9428e2d577e9c3ee07, type: 2}
+  CharacterNodes:
+  - {fileID: 11400000, guid: 4d0f0e920a27ca9428e2d577e9c3ee07, type: 2}
+  - {fileID: 11400000, guid: cb339003d210d0142b1982c8b53bc758, type: 2}
+  - {fileID: 11400000, guid: 0ab91abbaad396843afba524379e8cbc, type: 2}
+  - {fileID: 11400000, guid: a29cbc05ec8898f418d950fd1c2e1019, type: 2}
+  - {fileID: 11400000, guid: b9af3e38d0bf24e4cb3de922bf3bdf63, type: 2}
+  - {fileID: 11400000, guid: 77cd061af925bb442b61f317e14ad4b7, type: 2}
+  FallBackNodes:
+  - {fileID: 11400000, guid: 4d0f0e920a27ca9428e2d577e9c3ee07, type: 2}
+  FailClip: {fileID: 8300000, guid: 30b758ef25aca1442a26a13f9e2861f8, type: 3}
+  LeaveClip: {fileID: 8300000, guid: f7298102b932b33499111ec3c20264e3, type: 3}
+  FailSprite: {fileID: 2800000, guid: 917e49bbf55206f4b82ad89e105da074, type: 3}
+  Jumpscare: {fileID: 32900000, guid: 44fcd1711355cfc4bab85f5472af8bf9, type: 3}
+  JumpscareAlpha: {fileID: 32900000, guid: 418721009d10e354bba8b066bf4e2ad7, type: 3}
+  RenderData:
+  - {fileID: 11400000, guid: c86503dafa8d81246a7e0604e2bb4737, type: 2}
+  - {fileID: 11400000, guid: 3176abb759e685441afa21b7e418927a, type: 2}
+  - {fileID: 11400000, guid: 41c4bdd7e4c6201449d7fbb1d202f56a, type: 2}
+  RenderImagePrefab: {fileID: 3077279056316733527, guid: 0d10e6d29cc539e4786ed56a905c6f26, type: 3}
